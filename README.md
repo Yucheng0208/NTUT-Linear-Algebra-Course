@@ -10,8 +10,6 @@
 ### 簡介：
 這個倉庫包含兩個不同的程式作業，每個作業都使用多種編程語言來實現。使用者可以選擇 C、C++、Java 和 Python 來進行不同的矩陣運算功能。
 
----
-
 ### 作業一：
 矩陣運算，包括加法、減法、轉置，並檢查對角矩陣與對稱矩陣。
 
@@ -23,8 +21,6 @@
 | Python | Linear_Algebra_PA#1.py | [下載 Python 檔案](Programming_Assignment_#1/Linear_Algebra_PA#1.py) |
 | 說明文件 | README.md | [下載說明文件](Programming_Assignment_#1/README.md) |
 
----
-
 ### 作業二：
 待補充內容。
 
@@ -35,8 +31,6 @@
 | Java | Linear_Algebra_PA#2.java | [下載 Java 檔案](Programming_Assignment_#2/Linear_Algebra_PA#2.java) |
 | Python | Linear_Algebra_PA#2.py | [下載 Python 檔案](Programming_Assignment_#2/Linear_Algebra_PA#2.py) |
 | 說明文件 | README.md | [下載說明文件](Programming_Assignment_#2/README.md) |
-
----
 
 ## 編譯與執行方式 (Compilation and Execution)
 
@@ -88,8 +82,6 @@
 ### Introduction:
 This repository contains two different programming assignments, each implemented in multiple programming languages. Users can choose to implement matrix operations in C, C++, Java, and Python.
 
----
-
 ### Assignment 1:
 Matrix operations, including addition, subtraction, transposition, and checking for diagonal and symmetric matrices.
 
@@ -101,8 +93,6 @@ Matrix operations, including addition, subtraction, transposition, and checking 
 | Python | Linear_Algebra_PA#1.py | [Download Python file](Programming_Assignment_#1/Linear_Algebra_PA#1.py) |
 | Documentation | README.md | [Download README file](Programming_Assignment_#1/README.md) |
 
----
-
 ### Assignment 2:
 Content pending.
 
@@ -113,8 +103,6 @@ Content pending.
 | Java | Linear_Algebra_PA#2.java | [Download Java file](Programming_Assignment_#2/Linear_Algebra_PA#2.java) |
 | Python | Linear_Algebra_PA#2.py | [Download Python file](Programming_Assignment_#2/Linear_Algebra_PA#2.py) |
 | Documentation | README.md | [Download README file](Programming_Assignment_#2/README.md) |
-
----
 
 ### Compilation and Execution
 
@@ -166,8 +154,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ### Pengantar:
 Repositori ini berisi dua tugas pemrograman yang berbeda, masing-masing diimplementasikan dalam berbagai bahasa pemrograman. Pengguna dapat memilih untuk mengimplementasikan operasi matriks dalam bahasa C, C++, Java, dan Python.
 
----
-
 ### Tugas 1:
 Operasi matriks termasuk penjumlahan, pengurangan, transposisi, serta memeriksa matriks diagonal dan simetris.
 
@@ -179,8 +165,6 @@ Operasi matriks termasuk penjumlahan, pengurangan, transposisi, serta memeriksa 
 | Python | Linear_Algebra_PA#1.py | [Unduh berkas Python](Programming_Assignment_#1/Linear_Algebra_PA#1.py) |
 | Dokumentasi | README.md | [Unduh README](Programming_Assignment_#1/README.md) |
 
----
-
 ### Tugas 2:
 Konten menunggu。
 
@@ -191,8 +175,6 @@ Konten menunggu。
 | Java | Linear_Algebra_PA#2.java | [Unduh berkas Java](Programming_Assignment_#2/Linear_Algebra_PA#2.java) |
 | Python | Linear_Algebra_PA#2.py | [Unduh berkas Python](Programming_Assignment_#2/Linear_Algebra_PA#2.py) |
 | Dokumentasi | README.md | [Unduh README](Programming_Assignment_#2/README.md) |
-
----
 
 ### Kompilasi dan Eksekusi
 
