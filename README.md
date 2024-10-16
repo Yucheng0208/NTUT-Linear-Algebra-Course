@@ -76,7 +76,7 @@
 ### Python 執行 (Python Execution)
 1. 直接在命令行中執行 Python 檔案：
    ```bash
-   python3 Linear_Algebra_PA#1.py
+   python Linear_Algebra_PA#1.py
    ```
 
 ---
@@ -152,7 +152,7 @@ Content pending.
 #### Python Execution
 1. Simply run the Python file from the command line:
    ```bash
-   python3 Linear_Algebra_PA#1.py
+   python Linear_Algebra_PA#1.py
    ```
 
 ---
@@ -187,3 +187,44 @@ Konten menunggu。
 | Java | Linear_Algebra_PA#2.java | [Unduh berkas Java](Programming_Assignment_#2/Linear_Algebra_PA#2.java) |
 | Python | Linear_Algebra_PA#2.py | [Unduh berkas Python](Programming_Assignment_#2/Linear_Algebra_PA#2.py) |
 | Dokumentasi | README.md | [Unduh README](Programming_Assignment_#2/README.md) |
+
+---
+
+### Kompilasi dan Eksekusi
+
+#### Kompilasi dan Eksekusi C
+1. Arahkan ke direktori yang berisi file C menggunakan command line.
+2. Kompilasi program menggunakan perintah berikut:
+   ```bash
+   gcc -o linear_algebra Linear_Algebra_PA#1.c
+3. Jalankan program yang telah dikompilasi:
+    ```bash
+    ./linear_algebra
+
+#### Kompilasi dan Eksekusi C++
+1. Arahkan ke direktori yang berisi file C++ menggunakan command line.
+2. Kompilasi program menggunakan perintah berikut:
+   ```bash
+   g++ -o linear_algebra_cpp Linear_Algebra_PA#1.cpp
+   ```
+3. Jalankan program yang telah dikompilasi:
+   ```bash
+   ./linear_algebra_cpp
+   ```
+
+#### Kompilasi dan Eksekusi Java
+1. Arahkan ke direktori yang berisi file Java menggunakan command line.
+2. Kompilasi program menggunakan perintah berikut:
+   ```bash
+   javac Linear_Algebra_PA#1.java
+   ```
+3. Run the compiled Java program:
+   ```bash
+   java Linear_Algebra_PA#1
+   ```
+
+#### Eksekusi Python
+1. Jalankan file Python dari command line:
+   ```bash
+   python Linear_Algebra_PA#1.py
+   ```
