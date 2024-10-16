@@ -78,6 +78,8 @@
    ```bash
    python Linear_Algebra_PA#1.py
    ```
+## 授權條款
+本專案使用 [MIT License](https://opensource.org/licenses/MIT) 授權。根據該授權，任何人皆可自由使用、修改和分發本專案的代碼，但需保留原始版權聲明與本授權條款。該授權提供使用者僅在法律允許的範圍內擁有權利，且不附帶任何擔保，無論明示或默示
 
 ---
 
@@ -154,6 +156,8 @@ Content pending.
    ```bash
    python Linear_Algebra_PA#1.py
    ```
+## License Statement:
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Under this license, anyone is free to use, modify, and distribute the code as long as they retain the original copyright notice and this license. The license provides the code as-is, without any warranty, whether express or implied, to the extent permitted by applicable law.
 
 ---
 
@@ -228,3 +232,6 @@ Konten menunggu。
    ```bash
    python Linear_Algebra_PA#1.py
    ```
+   
+### Bahasa Indonesia:
+Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT). Di bawah lisensi ini, siapa pun bebas menggunakan, memodifikasi, dan mendistribusikan kode selama tetap mempertahankan pemberitahuan hak cipta asli dan lisensi ini. Lisensi ini memberikan kode apa adanya, tanpa jaminan apa pun, baik secara tersurat maupun tersirat, sejauh diizinkan oleh hukum yang berlaku.
