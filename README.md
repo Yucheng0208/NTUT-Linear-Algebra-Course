@@ -15,10 +15,10 @@
 
 | 語言 | 檔案名稱 | 下載連結 |
 | --- | --- | --- |
-| C   | Linear_Algebra_PA#1.c | [下載 C 檔案](Programming_Assignment_#1/Linear_Algebra_PA#1.c) |
-| C++ | Linear_Algebra_PA#1.cpp | [下載 C++ 檔案](Programming_Assignment_#1/Linear_Algebra_PA#1.cpp) |
-| Java | Linear_Algebra_PA#1.java | [下載 Java 檔案](Programming_Assignment_#1/Linear_Algebra_PA#1.java) |
-| Python | Linear_Algebra_PA#1.py | [下載 Python 檔案](Programming_Assignment_#1/Linear_Algebra_PA#1.py) |
+| C   | Linear_Algebra_PA#1.c | [下載 C 檔案](Programming_Assignment_1/Linear_Algebra_PA#1.c) |
+| C++ | Linear_Algebra_PA#1.cpp | [下載 C++ 檔案](Programming_Assignment_1/Linear_Algebra_PA#1.cpp) |
+| Java | Linear_Algebra_PA#1.java | [下載 Java 檔案](Programming_Assignment_1/Linear_Algebra_PA#1.java) |
+| Python | Linear_Algebra_PA#1.py | [下載 Python 檔案](Programming_Assignment_1/Linear_Algebra_PA#1.py) |
 | 說明文件 | README.md | [下載說明文件](Programming_Assignment_#1/README.md) |
 
 ### 作業二：
@@ -26,11 +26,11 @@
 
 | 語言 | 檔案名稱 | 下載連結 |
 | --- | --- | --- |
-| C   | Linear_Algebra_PA#2.c | [下載 C 檔案](Programming_Assignment_#2/Linear_Algebra_PA#2.c) |
-| C++ | Linear_Algebra_PA#2.cpp | [下載 C++ 檔案](Programming_Assignment_#2/Linear_Algebra_PA#2.cpp) |
-| Java | Linear_Algebra_PA#2.java | [下載 Java 檔案](Programming_Assignment_#2/Linear_Algebra_PA#2.java) |
-| Python | Linear_Algebra_PA#2.py | [下載 Python 檔案](Programming_Assignment_#2/Linear_Algebra_PA#2.py) |
-| 說明文件 | README.md | [下載說明文件](Programming_Assignment_#2/README.md) |
+| C   | Linear_Algebra_PA#2.c | [下載 C 檔案](Programming_Assignment_2/Linear_Algebra_PA#2.c) |
+| C++ | Linear_Algebra_PA#2.cpp | [下載 C++ 檔案](Programming_Assignment_2/Linear_Algebra_PA#2.cpp) |
+| Java | Linear_Algebra_PA#2.java | [下載 Java 檔案](Programming_Assignment_2/Linear_Algebra_PA#2.java) |
+| Python | Linear_Algebra_PA#2.py | [下載 Python 檔案](Programming_Assignment_2/Linear_Algebra_PA#2.py) |
+| 說明文件 | README.md | [下載說明文件](Programming_Assignment_2/README.md) |
 
 ## 編譯與執行方式 (Compilation and Execution)
 
@@ -87,22 +87,22 @@ Matrix operations, including addition, subtraction, transposition, and checking 
 
 | Language | File Name | Download Link |
 | --- | --- | --- |
-| C   | Linear_Algebra_PA#1.c | [Download C file](Programming_Assignment_#1/Linear_Algebra_PA#1.c) |
-| C++ | Linear_Algebra_PA#1.cpp | [Download C++ file](Programming_Assignment_#1/Linear_Algebra_PA#1.cpp) |
-| Java | Linear_Algebra_PA#1.java | [Download Java file](Programming_Assignment_#1/Linear_Algebra_PA#1.java) |
-| Python | Linear_Algebra_PA#1.py | [Download Python file](Programming_Assignment_#1/Linear_Algebra_PA#1.py) |
-| Documentation | README.md | [Download README file](Programming_Assignment_#1/README.md) |
+| C   | Linear_Algebra_PA#1.c | [Download C file](Programming_Assignment_1/Linear_Algebra_PA#1.c) |
+| C++ | Linear_Algebra_PA#1.cpp | [Download C++ file](Programming_Assignment_1/Linear_Algebra_PA#1.cpp) |
+| Java | Linear_Algebra_PA#1.java | [Download Java file](Programming_Assignment_1/Linear_Algebra_PA#1.java) |
+| Python | Linear_Algebra_PA#1.py | [Download Python file](Programming_Assignment_1/Linear_Algebra_PA#1.py) |
+| Documentation | README.md | [Download README file](Programming_Assignment_1/README.md) |
 
 ### Assignment 2:
 Content pending.
 
 | Language | File Name | Download Link |
 | --- | --- | --- |
-| C   | Linear_Algebra_PA#2.c | [Download C file](Programming_Assignment_#2/Linear_Algebra_PA#2.c) |
-| C++ | Linear_Algebra_PA#2.cpp | [Download C++ file](Programming_Assignment_#2/Linear_Algebra_PA#2.cpp) |
-| Java | Linear_Algebra_PA#2.java | [Download Java file](Programming_Assignment_#2/Linear_Algebra_PA#2.java) |
-| Python | Linear_Algebra_PA#2.py | [Download Python file](Programming_Assignment_#2/Linear_Algebra_PA#2.py) |
-| Documentation | README.md | [Download README file](Programming_Assignment_#2/README.md) |
+| C   | Linear_Algebra_PA#2.c | [Download C file](Programming_Assignment_2/Linear_Algebra_PA#2.c) |
+| C++ | Linear_Algebra_PA#2.cpp | [Download C++ file](Programming_Assignment_2/Linear_Algebra_PA#2.cpp) |
+| Java | Linear_Algebra_PA#2.java | [Download Java file](Programming_Assignment_2/Linear_Algebra_PA#2.java) |
+| Python | Linear_Algebra_PA#2.py | [Download Python file](Programming_Assignment_2/Linear_Algebra_PA#2.py) |
+| Documentation | README.md | [Download README file](Programming_Assignment_2/README.md) |
 
 ### Compilation and Execution
 
@@ -159,22 +159,22 @@ Operasi matriks termasuk penjumlahan, pengurangan, transposisi, serta memeriksa 
 
 | Bahasa | Nama Berkas | Tautan Unduh |
 | --- | --- | --- |
-| C   | Linear_Algebra_PA#1.c | [Unduh berkas C](Programming_Assignment_#1/Linear_Algebra_PA#1.c) |
-| C++ | Linear_Algebra_PA#1.cpp | [Unduh berkas C++](Programming_Assignment_#1/Linear_Algebra_PA#1.cpp) |
-| Java | Linear_Algebra_PA#1.java | [Unduh berkas Java](Programming_Assignment_#1/Linear_Algebra_PA#1.java) |
-| Python | Linear_Algebra_PA#1.py | [Unduh berkas Python](Programming_Assignment_#1/Linear_Algebra_PA#1.py) |
-| Dokumentasi | README.md | [Unduh README](Programming_Assignment_#1/README.md) |
+| C   | Linear_Algebra_PA#1.c | [Unduh berkas C](Programming_Assignment_1/Linear_Algebra_PA#1.c) |
+| C++ | Linear_Algebra_PA#1.cpp | [Unduh berkas C++](Programming_Assignment_1/Linear_Algebra_PA#1.cpp) |
+| Java | Linear_Algebra_PA#1.java | [Unduh berkas Java](Programming_Assignment_1/Linear_Algebra_PA#1.java) |
+| Python | Linear_Algebra_PA#1.py | [Unduh berkas Python](Programming_Assignment_1/Linear_Algebra_PA#1.py) |
+| Dokumentasi | README.md | [Unduh README](Programming_Assignment_1/README.md) |
 
 ### Tugas 2:
 Konten menunggu。
 
 | Bahasa | Nama Berkas | Tautan Unduh |
 | --- | --- | --- |
-| C   | Linear_Algebra_PA#2.c | [Unduh berkas C](Programming_Assignment_#2/Linear_Algebra_PA#2.c) |
-| C++ | Linear_Algebra_PA#2.cpp | [Unduh berkas C++](Programming_Assignment_#2/Linear_Algebra_PA#2.cpp) |
-| Java | Linear_Algebra_PA#2.java | [Unduh berkas Java](Programming_Assignment_#2/Linear_Algebra_PA#2.java) |
-| Python | Linear_Algebra_PA#2.py | [Unduh berkas Python](Programming_Assignment_#2/Linear_Algebra_PA#2.py) |
-| Dokumentasi | README.md | [Unduh README](Programming_Assignment_#2/README.md) |
+| C   | Linear_Algebra_PA#2.c | [Unduh berkas C](Programming_Assignment_2/Linear_Algebra_PA#2.c) |
+| C++ | Linear_Algebra_PA#2.cpp | [Unduh berkas C++](Programming_Assignment_2/Linear_Algebra_PA#2.cpp) |
+| Java | Linear_Algebra_PA#2.java | [Unduh berkas Java](Programming_Assignment_2/Linear_Algebra_PA#2.java) |
+| Python | Linear_Algebra_PA#2.py | [Unduh berkas Python](Programming_Assignment_2/Linear_Algebra_PA#2.py) |
+| Dokumentasi | README.md | [Unduh README](Programming_Assignment_2/README.md) |
 
 ### Kompilasi dan Eksekusi
 
