@@ -13,7 +13,7 @@
 ### 作業一：
 矩陣運算，包括加法、減法、轉置，並檢查對角矩陣與對稱矩陣。
 
-| 語言 | 檔案名稱 | 下載連結 |
+| 程式語言 | 檔案名稱 | 下載連結 |
 | --- | --- | --- |
 | C   | Linear_Algebra_PA_1.c | [下載 C 檔案](Programming_Assignment_1/Linear_Algebra_PA_1.c) |
 | C++ | Linear_Algebra_PA_1.cpp | [下載 C++ 檔案](Programming_Assignment_1/Linear_Algebra_PA_1.cpp) |
@@ -24,7 +24,7 @@
 ### 作業二：
 待補充內容。
 
-| 語言 | 檔案名稱 | 下載連結 |
+| 程式語言 | 檔案名稱 | 下載連結 |
 | --- | --- | --- |
 | C   | Linear_Algebra_PA_2.c | [下載 C 檔案](Programming_Assignment_2/Linear_Algebra_PA_2.c) |
 | C++ | Linear_Algebra_PA_2.cpp | [下載 C++ 檔案](Programming_Assignment_2/Linear_Algebra_PA_2.cpp) |
@@ -73,7 +73,7 @@
    python Linear_Algebra_PA_1.py
    ```
 ## 授權條款
-本專案使用 [MIT License](./LICENSE) 授權。根據該授權，任何人皆可自由使用、修改和分發本專案的代碼，但需保留原始版權聲明與本授權條款。該授權提供使用者僅在法律允許的範圍內擁有權利，且不附帶任何擔保，無論明示或默示
+本專案使用 [MIT License](../LICENSE) 授權。根據該授權，任何人皆可自由使用、修改和分發本專案的代碼，但需保留原始版權聲明與本授權條款。該授權提供使用者僅在法律允許的範圍內擁有權利，且不附帶任何擔保，無論明示或默示
 
 ---
 
@@ -85,7 +85,7 @@ This repository contains two different programming assignments, each implemented
 ### Assignment 1:
 Matrix operations, including addition, subtraction, transposition, and checking for diagonal and symmetric matrices.
 
-| Language | File Name | Download Link |
+| Program Language | File Name | Download Link |
 | --- | --- | --- |
 | C   | Linear_Algebra_PA_1.c | [Download C file](Programming_Assignment_1/Linear_Algebra_PA_1.c) |
 | C++ | Linear_Algebra_PA_1.cpp | [Download C++ file](Programming_Assignment_1/Linear_Algebra_PA_1.cpp) |
@@ -96,7 +96,7 @@ Matrix operations, including addition, subtraction, transposition, and checking 
 ### Assignment 2:
 Content pending.
 
-| Language | File Name | Download Link |
+| Program Language | File Name | Download Link |
 | --- | --- | --- |
 | C   | Linear_Algebra_PA_2.c | [Download C file](Programming_Assignment_2/Linear_Algebra_PA_2.c) |
 | C++ | Linear_Algebra_PA_2.cpp | [Download C++ file](Programming_Assignment_2/Linear_Algebra_PA_2.cpp) |
@@ -145,7 +145,7 @@ Content pending.
    python Linear_Algebra_PA_1.py
    ```
 ## License Statement:
-This project is licensed under the [MIT License](./LICENSE). Under this license, anyone is free to use, modify, and distribute the code as long as they retain the original copyright notice and this license. The license provides the code as-is, without any warranty, whether express or implied, to the extent permitted by applicable law.
+This project is licensed under the [MIT License](../LICENSE). Under this license, anyone is free to use, modify, and distribute the code as long as they retain the original copyright notice and this license. The license provides the code as-is, without any warranty, whether express or implied, to the extent permitted by applicable law.
 
 ---
 
@@ -157,7 +157,7 @@ Repositori ini berisi dua tugas pemrograman yang berbeda, masing-masing diimplem
 ### Tugas 1:
 Operasi matriks termasuk penjumlahan, pengurangan, transposisi, serta memeriksa matriks diagonal dan simetris.
 
-| Bahasa | Nama Berkas | Tautan Unduh |
+| Bahasa Pemrograman | Nama Berkas | Tautan Unduh |
 | --- | --- | --- |
 | C   | Linear_Algebra_PA_1.c | [Unduh berkas C](Programming_Assignment_1/Linear_Algebra_PA_1.c) |
 | C++ | Linear_Algebra_PA_1.cpp | [Unduh berkas C++](Programming_Assignment_1/Linear_Algebra_PA_1.cpp) |
@@ -168,7 +168,7 @@ Operasi matriks termasuk penjumlahan, pengurangan, transposisi, serta memeriksa 
 ### Tugas 2:
 Konten menunggu。
 
-| Bahasa | Nama Berkas | Tautan Unduh |
+| Bahasa Pemrograman | Nama Berkas | Tautan Unduh |
 | --- | --- | --- |
 | C   | Linear_Algebra_PA_2.c | [Unduh berkas C](Programming_Assignment_2/Linear_Algebra_PA#_2.c) |
 | C++ | Linear_Algebra_PA_2.cpp | [Unduh berkas C++](Programming_Assignment_2/Linear_Algebra_PA_2.cpp) |
@@ -216,4 +216,4 @@ Konten menunggu。
    ```
    
 ### Bahasa Indonesia:
-Proyek ini dilisensikan di bawah [MIT License](./LICENSE). Di bawah lisensi ini, siapa pun bebas menggunakan, memodifikasi, dan mendistribusikan kode selama tetap mempertahankan pemberitahuan hak cipta asli dan lisensi ini. Lisensi ini memberikan kode apa adanya, tanpa jaminan apa pun, baik secara tersurat maupun tersirat, sejauh diizinkan oleh hukum yang berlaku.
+Proyek ini dilisensikan di bawah [MIT License](../LICENSE). Di bawah lisensi ini, siapa pun bebas menggunakan, memodifikasi, dan mendistribusikan kode selama tetap mempertahankan pemberitahuan hak cipta asli dan lisensi ini. Lisensi ini memberikan kode apa adanya, tanpa jaminan apa pun, baik secara tersurat maupun tersirat, sejauh diizinkan oleh hukum yang berlaku.
