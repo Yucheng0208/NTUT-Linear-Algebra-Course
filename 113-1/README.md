@@ -1,8 +1,7 @@
-## 語言選擇 (Language Selection / Pilihan Bahasa)
-- [中文說明](#中文說明)
-- [English Instructions](#english-instructions)
-- [Petunjuk dalam Bahasa Indonesia](#petunjuk-dalam-bahasa-indonesia)
-
+# 語言選擇 (Language Selection / Pilihan Bahasa)
+| 中文 | English | Indonesia |
+| :--: | :----: | :-------: |
+|[連結](#中文說明)| [Link](#english-instructions) |[Tautan]（#petunjuk-dalam-bahasa-indonesia）
 ---
 
 ## 中文說明
