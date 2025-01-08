@@ -1,5 +1,4 @@
-# 線性代數程式範例
-# Linear Algebra Sample Code
+# 線性代數程式範例 Linear Algebra Sample Code
 ## Course Infomation
 | Semester | Course Code | Class |  Professor | Class Time | Language |
 | :------: | :-----: | :------: | :------: | :------: | :------: |
