@@ -4,13 +4,13 @@
 ## 簡介 (Introduction / Pengantar)
 
 ### 中文：
-這是一個簡單的 Java 程式，實現了基本的矩陣運算功能，如加法、減法、矩陣轉置，並檢查矩陣是否是對角矩陣或對稱矩陣。使用者可以選擇三種語言顯示結果：中文、英文和印尼文。
+這是一個簡單的程式，實現了基本的矩陣運算功能，如加法、減法、矩陣轉置，並檢查矩陣是否是對角矩陣或對稱矩陣。使用者可以選擇三種語言顯示結果：中文、英文和印尼文。
 
 ### English:
-This is a simple Java program that implements basic matrix operations, such as addition, subtraction, matrix transposition, and checks if the matrix is diagonal or symmetric. The user can choose from three languages to display the results: Chinese, English, and Indonesian.
+This is a simple program that implements basic matrix operations, such as addition, subtraction, matrix transposition, and checks if the matrix is diagonal or symmetric. The user can choose from three languages to display the results: Chinese, English, and Indonesian.
 
 ### Bahasa Indonesia:
-Ini adalah program Java sederhana yang mengimplementasikan operasi dasar matriks, seperti penjumlahan, pengurangan, transposisi matriks, serta memeriksa apakah matriks tersebut diagonal atau simetris. Pengguna dapat memilih dari tiga bahasa untuk menampilkan hasil: Cina, Inggris, dan Indonesia.
+Ini adalah program sederhana yang mengimplementasikan operasi dasar matriks, seperti penjumlahan, pengurangan, transposisi matriks, serta memeriksa apakah matriks tersebut diagonal atau simetris. Pengguna dapat memilih dari tiga bahasa untuk menampilkan hasil: Cina, Inggris, dan Indonesia.
 
 ---
 
