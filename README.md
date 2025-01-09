@@ -8,7 +8,7 @@
 ---
 
 ## 113-1 Assignment Lists (2024 Fall)
-### Assignment 1 ( Details: [Link](./113-1/Assignment_1/README.md) )
+### Assignment #1 ( Details: [Link](./113-1/Assignment_1/README.md) )
 | Programming Language | Source File      | README File           |
 | :------------------ | :--------------: | :-------------------: |
 | C | [Link](./113-1/Assignment_1/Lang_C/PA_1.c) | [Link](./113-1/Assignment_1/Lang_C/README.md)  |
@@ -16,7 +16,7 @@
 | Java | [Link](./113-1/Assignment_1/Lang_JAVA/PA_1.java) | [Link](./113-1/Assignment_1/Lang_JAVA/README.md)  |
 | Python | [Link](./113-1/Assignment_1/Lang_Python/PA_1.py) | [Link](./113-1/Assignment_1/Lang_Python/README.md)  |
 
-### Assignment 2 ( Details: [Link](./113-1/Assignment_2/README.md) )
+### Assignment #2 ( Details: [Link](./113-1/Assignment_2/README.md) )
 
 | Programming Language | Source File      | README File           |
 | :------------------ | :--------------: | :-------------------: |
