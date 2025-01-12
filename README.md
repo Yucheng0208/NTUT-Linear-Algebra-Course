@@ -5,6 +5,8 @@
 | 113-1 | 335226 |資工一 | 楊士萱  教授 | Wed. 08:00am ~ 10:00am </br> Thu. 10:00am ~ 11:00am | 中文 (Chinese) | 
 | 113-2 | 341800 | 電資一 | 楊士萱  教授 | The. 08:00am ~ 10:00am </br> Wed. 10:00am ~ 11:00am | 雙語 (Bilingual) |
 
+[TAs Rules](https://hackmd.io/@Ryan208/Linear-Algebra-TA-Rules)
+
 ---
 
 ## 113-1 Assignment Lists (2024 Fall)
