@@ -35,10 +35,10 @@
 
 
 
-> ### 💡 Assignment Formats
-> [電資一_作業格式範本.word](./113-2/電資一_作業格式範本.docx) 
-> [電資一_作業格式範本.pdf](./113-2/電資一_作業格式範本.pdf)
-> [電資一_作業格式範本.pdf](./113-2/電資一_作業格式範本.odf)
+> ### 📝 Assignment Format files
+> [電資一_作業格式範本.docx](./113-2/Assignments_Sample/Assignments_Sample.docx) 
+> [電資一_作業格式範本.odt](./113-2/Assignments_Sample/Assignments_Sample.odt)
+> [電資一_作業格式範本.pdf](./113-2/Assignments_Sample/Assignments_Sample.pdf)
 
 ---
 
