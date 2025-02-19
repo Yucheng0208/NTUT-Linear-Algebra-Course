@@ -6,7 +6,7 @@
 | 113-2 | 341800 | 電資一 | 楊士萱  教授 | The. 08:00am ~ 10:00am </br> Wed. 10:00am ~ 11:00am | 雙語 (Bilingual) |
 
 #### Hackmd.io: [https://hackmd.io/@Yucheng208/NTUT-Linear-Algebra](https://hackmd.io/@Yucheng208/NTUT-Linear-Algebra)
-#### Textbook: [https://github.com/Yucheng0208/NTUT-Linear-Algebra-Course-TAs-Sample-Code/edit/main/David%20Lay%2C%20Steven%20Lay%2C%20Judi%20McDonald%20-%20Linear%20Algebra%20and%20Its%20Applications%2C%20Global%20Edition-Pearson%20(2021).pdf](https://github.com/Yucheng0208/NTUT-Linear-Algebra-Course-TAs-Sample-Code/edit/main/David%20Lay%2C%20Steven%20Lay%2C%20Judi%20McDonald%20-%20Linear%20Algebra%20and%20Its%20Applications%2C%20Global%20Edition-Pearson%20(2021).pdf)
+#### Textbook: [blob:https://github.com/82fd95a3-6403-4942-a5ea-35e405c77d66](blob:https://github.com/82fd95a3-6403-4942-a5ea-35e405c77d66)
 
 ---
 
