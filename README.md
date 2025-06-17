@@ -1,5 +1,5 @@
-# 線性代數程式範例 Linear Algebra Sample Code
-## Course Infomation
+# 線性代數 Linear Algebra
+## Course Information
 | Semester | Course Code | Class |  Professor | Class Time | Language |
 | :------: | :-----: | :------: | :------: | :------: | :------: |
 | 113-1 | 335226 | 資工一 | 楊士萱  教授 | Wed. 08:00am ~ 10:00am </br> Thu. 10:00am ~ 11:00am | 中文 (Chinese) | 
