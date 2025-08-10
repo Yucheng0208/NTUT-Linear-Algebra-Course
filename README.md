@@ -5,7 +5,10 @@
 | 113-1 | 335226 | 資工一 | 楊士萱  教授 | Wed. 08:00am ~ 10:00am </br> Thu. 10:00am ~ 11:00am | 中文 (Chinese) | 
 | 113-2 | 341800 | 電資一 | 楊士萱  教授 | The. 08:00am ~ 10:00am </br> Wed. 10:00am ~ 11:00am | 雙語 (Bilingual) |
 
-#### Textbook: David Lay, Steven Lay, Judi McDonald - Linear Algebra and Its Applications, Global Edition-Pearson (2021)
+#### Textbook: [David Lay, Steven Lay, Judi McDonald - Linear Algebra and Its Applications, Global Edition-Pearson (2021)](https://github.com/Yucheng0208/NTUT-Linear-Algebra-Course/blob/main/David%20Lay%2C%20Steven%20Lay%2C%20Judi%20McDonald%20-%20Linear%20Algebra%20and%20Its%20Applications%2C%20Global%20Edition-Pearson%20(2021).pdf)
+
+> [!IMPORTANT]
+> This textbook is provided for academic reference purposes only. We encourage readers to support the authors and publishers by obtaining the official printed copy.
 
 ---
 
