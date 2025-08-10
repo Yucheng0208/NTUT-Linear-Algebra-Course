@@ -5,7 +5,6 @@
 | 113-1 | 335226 | 資工一 | 楊士萱  教授 | Wed. 08:00am ~ 10:00am </br> Thu. 10:00am ~ 11:00am | 中文 (Chinese) | 
 | 113-2 | 341800 | 電資一 | 楊士萱  教授 | The. 08:00am ~ 10:00am </br> Wed. 10:00am ~ 11:00am | 雙語 (Bilingual) |
 
-#### Hackmd.io: [https://hackmd.io/@Yucheng208/NTUT-Linear-Algebra](https://hackmd.io/@Yucheng208/NTUT-Linear-Algebra)
 #### Textbook: David Lay, Steven Lay, Judi McDonald - Linear Algebra and Its Applications, Global Edition-Pearson (2021)
 
 ---
@@ -36,6 +35,11 @@
 > [電資一_作業格式範本.docx](./113-2/Assignments_Sample/Assignments_Sample.docx) 
 > [電資一_作業格式範本.odt](./113-2/Assignments_Sample/Assignments_Sample.odt)
 > [電資一_作業格式範本.pdf](./113-2/Assignments_Sample/Assignments_Sample.pdf)
+
+
+### 📢 TA Office
+> VSP-Lab@Lab1323
+> Hong-Yue Tech Level 13
 
 ---
 
